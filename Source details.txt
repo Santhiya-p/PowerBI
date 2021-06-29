@@ -1,0 +1,9 @@
+Source of data for the coronavirus_data Power Bi report
+websites
+trackcorona.live/api - get the jason data from api by copying the link
+data.humdata.org - download the csv and file upload it in power bi
+ourworldindata.org -> get the data in jason format by copying the link
+----------------------------------------------------------------------
+
+Data has been loaded from the above three sources and Data has been cleaned/modified.
+used Unpivot to separate the data in colun format. 
